@@ -29,6 +29,13 @@ body, html {
   justify-content: space-evenly;
   align-items: center;
 }
+.head{
+  display: flex;
+  padding: 30px 30px;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
 .header h1{
       margin-left: 300px;
 }

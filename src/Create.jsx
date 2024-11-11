@@ -20,8 +20,8 @@ export default function Create() {
 
   return (
     <div>
-      <div className='header'>
-    <h1>Create Notes</h1>
+      <div className='head'>
+    <h1 >Create Notes</h1>
     </div>
     <div className='Container'>
       <div className='small-container'>
