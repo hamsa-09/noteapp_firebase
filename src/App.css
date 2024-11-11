@@ -166,10 +166,16 @@ textarea, input {
   .Container {
     flex-direction: column;
   }
-  .small-container, .Notes {
+  .Notes {
     width: 85%;
     max-width: 20rem;
   }
+ .small-container{
+  width: 90%;
+  max-width: 25rem;
+  padding: 10px;
+}
+ 
 
   .Notes {
     justify-content: center;
