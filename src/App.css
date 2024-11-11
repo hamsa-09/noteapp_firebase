@@ -39,6 +39,18 @@ body, html {
 .header h1{
       margin-left: 300px;
 }
+.search-input{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.search-input input{
+  width: 500px;
+  border-radius: 20px;
+  padding: 10px 10px;
+}
 .icon-link {
   
   right: 20rem;
